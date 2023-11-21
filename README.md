@@ -1,0 +1,2 @@
+# zsh-amethyst
+zsh theme
